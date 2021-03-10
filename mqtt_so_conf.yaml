@@ -1,0 +1,10 @@
+#Smart Object Configuration
+
+deviceUUID: dummyMqttDevice001
+mqttBrokerAddress: 127.0.0.1
+mqttBrokerPort: 1883
+deviceNameSpace: com:iot:dummy
+basicTopic: telemetry
+startUpDelayMs: 5000
+updatePeriodMs: 1000
+mqttOutgoingClientQoS: 0
